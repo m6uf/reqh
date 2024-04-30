@@ -1,0 +1,7 @@
+train: C:\Users\dhomy\Downloads\Yolov8cc1\datasets\data\train\images
+val: C:\Users\dhomy\Downloads\Yolov8cc1\datasets\data\valid\images
+test: C:\Users\dhomy\Downloads\Yolov8cc1\datasets\data\test\images
+
+nc: 3
+names: ['Bad-Quality', 'Good-Quality', 'Green']
+
